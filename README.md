@@ -27,7 +27,7 @@
   that error message.
 
 # Setup and run application
-1.install the required packages
+1.install the required packages by running the following command in terminal:-
     npm i
-2. run the application
+2. run the application by running the command in terminal:-
     npm start
